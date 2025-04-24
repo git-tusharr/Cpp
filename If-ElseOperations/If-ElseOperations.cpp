@@ -198,36 +198,194 @@ int main()
 // }
 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
+// {
 //     int path;
-//     cout<<"Enter the path ";
-//     cin>>path;
-//     if(path==1)
-//     {cout<<"enter yout path ";
-//     cinn>>path;
-//     // path-2
+//     cout << "Enter the path: ";
+//     cin >> path;
 
-// if(path==2)
-// { 
-//     cout<<"enter yout path ";
-//     cinn>>path;
-//     if(path==3)
-//     {cout<<"enter yout path ";
-//         cinn>>path;
+//     if (path == 1)
+//     {
+//         cout << "Enter the path: ";
+//         cin >> path;
 
+//         if(path == 2)
+//         {
+//             cout << "Enter the path: ";
+//             cin >> path;
+
+//             if (path == 3)
+//             {
+//                 cout << "Enter the path: ";
+//                 cin >> path;
+
+//                 if (path == 4)
+//                 {
+//                     cout << "Reached";
+//                 }
+//                 else
+//                 {
+//                     cout << "Invalid path";
+//                 }
+//             }
+//             else if(path==4)
+//             {
+//                 cout << "Reached";
+//             }
+//             else
+//             {
+//                 cout << "Invalid path" ;
+//             }
+//         }
+//         else if(path==3)
+//         {
+//             cout << "Enter the path: ";
+//             cin >> path;
+
+//             if(path==4)
+//             {
+//                 cout << "reached ";
+//             }
+//             else
+//             {
+//                 cout<<"invalid path";
+//             }
+//         }
+       
+    
+//     else if(path==4)
+//     {
+//         cout << "reached ";
+//         cin >> path;
+
+//         if(path==3)
+//         {
+//             cout << "Enter the path: ";
+//             cin >> path;
+
+//             if(path==4)
+//             {
+//             cout << "reached ";
+//             }
+//             else
+//             {
+//                 cout << "Invalid path" ;
+//             }
+
+//         }
+//     }
+    
+//     } else
+//     {
+//         cout << "Invalid path" ;
+//     }
 // }
 // }
 
 
+
+int path;
+cout<<"enter the path ";
+cin>>path;
+
+if(path==1)
+{
+    cout<<"enter path";
+    cin>>path;
+    if(path==2)
+    {
+        cout<<"enter path";
+        cin>>path;
+        if(path==3)
+        {
+            cout<<"enter path";
+            cin>>path;
+            if(path==4)
+            {
+                cout<<"Path reached";
+            }
+            else
+            {
+                cout<<"invalid path";
+            }
+        }
+        else if(path==4)
+        {
+            cout<<"Path reached";
+        }
+        else
+        {
+            cout<<"invalid path";
+        }
+    }
+    else if(path==4)
+    {
+        cout<<"Path reached";
+    }
+    else
+    {
+        cout<<"invalid path";
+    }
 
 }
+else if(path==2)
+{
+    if(path==3)
+    {
+        cout<<"enter the path";
+        cin>>path;
+        if(path==4)
+        {
+            cout<<"Path Reached";
+        }
+        else
+        {
+            cout<<"invalid path";
+        }
+
+    }
+    else if(path==4)
+    {
+        cout<<"Path reached";
+    }
+    else
+    {
+        cout<<"invalid";
+    }
+}
+else if(path==3)
+{
+    if(path==2)
+    {
+        cout<<"enter the path";
+        cin>>path;
+        if(path==4)
+        {
+            cout<<"Path reached";
+        }
+        else
+        {
+            cout<<"invalid";
+        }
+    }
+    else if(path==4)
+    {
+        cout<<"Path reached";
+    }
+    else
+    {
+        cout<<"invalid";
+    }
+}
+else if (path==4)
+{
+        cout<<"Path reached";
+}
+else
+
+    {
+        cout<<"invalid path";
+    }
+
+}
+
