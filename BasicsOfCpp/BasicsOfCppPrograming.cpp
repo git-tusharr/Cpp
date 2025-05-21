@@ -28,6 +28,11 @@ int main()
 // cin >>side;
 // cout <<"area of square = "<<side*side;
 
+// int a;
+// cout<<"enter side";
+// cin>>a;
+// cout<<"area of square is "<<a*a;
+
 
 // Area of Circle :-
 
@@ -60,6 +65,19 @@ int main()
 // TotalObtainedMarks=English+Hindi+Cpp;
 // cout<<"Total Percentage = "<<((TotalObtainedMarks)*100)/TotalMarks<<"%";
 
+
+
+
+// int hindi,english,cpp,totalmarks=300,obtainedmarks;
+// cout<<"enter marks of hindi";
+// cin>>hindi;
+// cout<<"enter marks of english";
+// cin>>english;
+// cout<<"enter marks of cpp";
+// cin>>cpp;
+// obtainedmarks=english+hindi+cpp;
+// cout<<"total percentage="<<((obtainedmarks)*100)/totalmarks;
+
 // Profit Or Loss Calculator
 
 // int CP;
@@ -84,6 +102,18 @@ int main()
 
 
 
+
+// int principal,rate,time;
+// cout<<"enter principal";
+// cin>>principal;
+// cout<<"enter rate";
+// cin>>rate;
+// cout<<"enter time";
+// cin>>time;
+// cout<<"simple interst = "<<(principal*rate*time)/100;
+
+
+
  // 5th class of c++ cybrom \\
 
 // Avg weight of 10 students was 50 kgs it becomes 45 kgs when one student left the group find the weight of student that left .
@@ -94,6 +124,10 @@ int main()
 // int NewAvgWt=45;
 // int result=NoOfStudents*AvgWt-NewNoOfStudents*NewAvgWt;
 // cout<<"Weight of the student that left the group = "<<result;
+
+
+
+
 
 
 
@@ -133,6 +167,7 @@ int main()
 // int next=ft+st;
 // ft=st;
 // st=next;
+// cout<<next;
 
 //nth term series
 //1 11 111 1111 11111

@@ -5,6 +5,6 @@ int main()
 int a;
 cout<<"Enter a number ";
 cin>>a;
-cout<<"the value of a is = a"<<a;
+cout<<"the value of a is ="<<a;
 
 }

@@ -5,18 +5,18 @@ int main()
 
     // Leap year finder
 
-    // int year;
-    // cout<<"enter year ";
-    // cin>>year;
+    int year;
+    cout<<"enter year ";
+    cin>>year;
 
-    // if((year%4==0 && year%100!=0)||(year%400==0))
-    // {
-    //     cout<<"Leap Year";
-    // }
-    // else
-    // {
-    //     cout<<"Not a Leap Year";
-    // }
+    if((year%4==0 && year%100!=0)||(year%400==0))
+    {
+        cout<<"Leap Year";
+    }
+    else
+    {
+        cout<<"Not a Leap Year";
+    }
 
 
     // Letter is Uppercase or Lowercase
@@ -33,6 +33,21 @@ int main()
     // }
     // else
     // {
+    //     cout<<"invalid";
+    // }
+
+    // char a;
+    // cout<<"enter a";
+    // cin>>a;
+    // if(a>='A' && a<='Z')
+    // {
+    //     cout<<"upercase";
+    // }
+    // else if(a>='a' && a<='z')
+    // {
+    //     cout<<"lowercase";
+    // }
+    // else{
     //     cout<<"invalid";
     // }
 

@@ -13,9 +13,23 @@ int main()
 // cout<<(a%2==0)?"even":"odd";
 
 
+// int a;
+// cout<<"value of a";
+// cin>>a;
+// cout<<(a%2==0 ? "even":"odd");
+
+
 // // number lies between 10 and 20
 // int a;
 // cout<<"enter the value of a";
+// cin>>a;
+// (a>10 && a<20)?cout<<a:cout<<"null";
+
+
+
+
+// int a;
+// cout<<"enter the number";
 // cin>>a;
 // (a>10 && a<20)?cout<<a:cout<<"null";
 
@@ -28,6 +42,24 @@ int main()
 // ?((number%2==0 && number%3==0)
 // ?cout<<number:cout<<"Invalid")
 // :cout<<"number is not between 20-50";
+
+// int number;
+// cout<<"enter number";
+// cin>>number;
+// (number>20 && number<50)
+// ?((number%2==0 && number%3==0)
+// ?cout<<number:cout<<"invalid")
+// :cout<<"number is not between 20 and 50";
+
+
+
+
+
+
+
+
+
+
 
 // int a;
 // cout<<"enter the value of a";

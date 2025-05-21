@@ -29,6 +29,31 @@ int main()
 // }
 
 
+// int number;
+// cout<<"enter the number";
+// cin>>number;
+// if(number !=0 && number%2==0)
+// {
+//     cout<<"even and non zero";
+// }
+// else if(number==0)
+// {
+//     cout<<"Number is zero";
+// }
+// else
+// {
+//     cout<<"inbvalid";
+// }
+
+
+
+
+
+
+
+
+
+
 // // the number is even or odd
 
 // int number;
@@ -46,6 +71,25 @@ int main()
 // else
 // {
 //     cout<<"the given number is odd";
+// }
+
+
+
+
+// int number;
+// cout<<"enter the number";
+// cin>>number;
+// if(number%2==0)
+// {
+//     cout<<"even";
+// }
+// else if(number==0)
+// {
+//     cout<<"zero";
+// }
+// else
+// {
+//     cout<<"odd";
 // }
 
 
@@ -196,6 +240,19 @@ int main()
 // else{
 //     cout<<"inv input";
 // }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
@@ -388,4 +445,10 @@ else
     }
 
 }
+
+
+
+
+
+
 
