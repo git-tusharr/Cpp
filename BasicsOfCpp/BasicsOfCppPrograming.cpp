@@ -215,7 +215,16 @@ int main()
 
 
 
+// Profit Or Loss Calculator
 
+int CP;
+int SP;
+int MP;
+int Profit;
+int Discount;
+cout<<"enter CP,SP,MP,Profit,Discount";
+cin>>CP>>SP>>MP>>Profit>>Discount;
+cout <<"Profit="<<(SP-CP);
 
 
  }
