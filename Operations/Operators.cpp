@@ -57,14 +57,6 @@ int main()
 // // XOR Operation(returns false when both input are same and returns true when both inputs are different)
 // cout<<(a^b)<<endl;
 
-
-
-
-
-
-
-
-
 // // Unary operators :-  Work with two operand
 
 // Increment (++)(Increment by one)
