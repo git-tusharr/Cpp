@@ -64,7 +64,7 @@ class Employ{
     void getdata()
     {
     cout<<"enter Name of employ :";
-    cin>>ename;-
+    cin>>ename;
     cout<<"enter Designation of employ :";
     cin>>designation;
     cout<<"enter Id of employ :";
