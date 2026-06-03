@@ -215,7 +215,7 @@
 
 
 
-// // Profit Or Loss Calculator
+// Profit Or Loss Calculator
 
 // int CP;
 // int SP;
@@ -228,3 +228,55 @@
 
 
 //  }
+
+
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    // int n=7;
+// for(int i=1;i<=10;i++)
+// {
+//    cout<<i*n<<" "<<endl;
+// }
+
+
+//     int i=1;
+//   while(i<=10) 
+//   {
+//     cout<<i*n<<" "<<endl;
+//     i++;
+//   }
+
+
+string pass;
+
+while(pass!="Admin"){
+
+cout<<"Enter the password "<<endl;
+cin>>pass;
+
+}
+
+
+cout<<"Welcome Admin "<<endl;
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
